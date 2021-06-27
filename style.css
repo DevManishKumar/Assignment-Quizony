@@ -223,7 +223,9 @@
 
 	.img-Grid {
 		
-		display: grid;
+		display: flex;
+               flex-wrap: wrap;
+                padding: 0 4px;
 		padding: auto;
 		padding: 10px;
 		border-radius: 0;
