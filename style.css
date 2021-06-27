@@ -148,7 +148,7 @@
 
 /* Scrollmenu */
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 999px){
 	.hr-nav-2{
 	width: 100%;
 }
@@ -187,7 +187,7 @@
 		float: right;
 	}
  
-	@media screen and (min-width: 799px){
+	@media screen and (min-width: 1000px){
 	  .wrapper {
 		text-align: start;
 		display: grid;
