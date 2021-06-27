@@ -260,7 +260,6 @@
 
 	  @media screen and (max-width: 800px){
 		  .img-grid div a img{
-			  padding-right:80px;
 			width: 450px;
 		}
 		  .img-Grid{
