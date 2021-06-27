@@ -260,7 +260,7 @@
 
 	  @media screen and (max-width: 800px){
 		  .img-grid div a img{
-			width: 300px;
+			width: 450px;
 		}
 		  .img-Grid{
 			grid-template-columns: 450px;
@@ -274,6 +274,11 @@
 		  .img-Grid{
 			padding-left: 110px;
 		  }
+	  }
+  @media screen and (min-width: 600px) and (min-width:400px){
+		.img-grid div a img{
+			width: auto;
+		}
 	  }
 
 
