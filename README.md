@@ -1,2 +1,2 @@
 # Assignment-Quizony
-link - https://manish396-star.github.io/Assignment-Quizony/
+link - https:/DevManishKumar.github.io/Assignment-Quizony/
